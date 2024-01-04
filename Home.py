@@ -24,21 +24,21 @@ st.write('\n')
 
 
 # Charger l'image depuis le fichier
-image_path = "imgs/img.jpg"
-image = Image.open(image_path)
+# image_path = "imgs/img.jpg"
+# image = Image.open(image_path)
 
 # Ajouter du texte à l'image en créant une nouvelle image
-image_with_text = image.copy()
-draw = ImageDraw.Draw(image_with_text)
-font_path = ImageFont.load_default()
-font_size = 30
-font = ImageFont.truetype(font_path, font_size)
-text = ' '#Palestine-Israel Conflict'
+# image_with_text = image.copy()
+# draw = ImageDraw.Draw(image_with_text)
+# font_path = ImageFont.load_default()
+# font_size = 30
+# font = ImageFont.truetype(font_path, font_size)
+# text = ' '#Palestine-Israel Conflict'
 
-draw.text((50,210), text, font=font, fill='#000')
+# draw.text((50,210), text, font=font, fill='#000')
 
 # Afficher l'image modifiée dans Streamlit
-st.image(image_with_text, use_column_width=True)
+# st.image(image_with_text, use_column_width=True)
 
 #st.header(':blue[Israel-Palestine] Conflict A Visual Exploration', divider='green')
 
