@@ -3,7 +3,6 @@ pandas
 numpy
 mysql-connector-python
 mysql-client
-PIL
 mysqlclient
 SQLAlchemy
 plotly
