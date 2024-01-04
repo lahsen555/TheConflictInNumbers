@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-mysqlclient
+mysql-connector-python
 SQLAlchemy
 plotly
 pyecharts
