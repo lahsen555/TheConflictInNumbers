@@ -30,7 +30,7 @@ image = Image.open(image_path)
 # Ajouter du texte à l'image en créant une nouvelle image
 image_with_text = image.copy()
 draw = ImageDraw.Draw(image_with_text)
-font = ImageFont.load_default()
+font_path = ImageFont.load_default()
 font_size = 30
 font = ImageFont.truetype(font_path, font_size)
 text = ' '#Palestine-Israel Conflict'
