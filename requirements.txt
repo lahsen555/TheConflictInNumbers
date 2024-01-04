@@ -3,6 +3,7 @@ pandas
 numpy
 mysql-connector-python
 mysql-client
+mysqlclient
 SQLAlchemy
 plotly
 pyecharts
