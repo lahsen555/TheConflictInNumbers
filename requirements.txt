@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+mysqlclient
+SQLAlchemy
+plotly
+pyecharts
+streamlit-echarts
+streamlit-card
+st-annotated-text
+streamlit-timeline
+folium
+pillow
+tabulate
+streamlit-lightweight-charts
+streamlit-folium
+pydeck

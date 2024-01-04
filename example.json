@@ -1,0 +1,464 @@
+
+{
+    "title": {
+        "media": {
+          "url": "https://www.gannett-cdn.com/indepth-static-assets/uploads/master/5125393001/73c5a06f-a8a0-4508-b2b7-be8467385651-israel-gaza-conflict-2_topper.png?width=1984",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "The Events Timeline",
+          "text": "<p>This is a simple timelime for some the most remarkable events in this conflict</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg",
+          "caption": "The Palestine territories after the partition"
+        },
+        "start_date": {
+          "year": "1947",
+          "month":"11",
+          "day":"29"
+        },
+        "text": {
+          "headline": "The UN Partition Plan",
+          "text": "<p>The UN General Assembly passes Resolution 181 calling for the partition of the Palestinian territories into two states, one Jewish and one Arab. The resolution also envisions an international, UN-run body to administer Jerusalem. The Palestinian territories had been under the military and administrative control of the United Kingdom (known as a mandate) since the 1917 defeat of the Ottoman Empire in World War I. Civil strife and violence between the Jewish and Arab communities of the Palestinian territories intensifies. </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Deir_Yassin_IMG_0858.JPG",
+          "caption": "Jewish military briefing at Deir Yassin prior to the massacre"
+        },
+        "start_date": {
+          "year": "1948",
+          "month":"11",
+          "day":"29"
+        },
+        "text": {
+          "headline": "Deir Yassin massacre",
+          "text": "when around 130 fighters from the Zionist paramilitary groups Irgun and Lehi killed at least 107 Palestinian Arab villagers, including women and children, in Deir Yassin, a village of roughly 600 people near Jerusalem,"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Declaration_of_State_of_Israel_1948.jpg",
+          "caption": "David Ben-Gurion declaring independence"
+        },
+        "start_date": {
+          "year": "1948",
+          "month":"5",
+          "day":"14"
+        },
+        "text": {
+          "headline": "Israel Declares Independence",
+          "text": "Israel declares its independence as the British rule ends. Sparked by Israel's declaration of independence, the first Arab-Israeli War begins. Egypt (supported by Saudi Arabian, Sudanese, and Yemeni troops), Iraq, Jordan, Lebanon, and Syria invade Israel. The fighting continues until 1949, when Egypt, Israel, Jordan, Lebanon, and Syria sign armistice agreements."
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2019/06/e18e41fe353442b88fab290179a816e9_18.jpeg?resize=570%2C380",
+          "caption": "The Displacement of 700,000 Palestinian"
+        },
+        "start_date": {
+          "year": "1948",
+          "month":"12",
+          "day":"11"
+        },
+        "text": {
+          "headline": "UN Addresses Palestinian Displacement",
+          "text": "Over the course of the 1948 Arab-Israeli War, at least seven hundred thousand Palestinian refugees flee their homes in an exodus known to Palestinians as the nakba (Arabic for catastrophe). Israel wins the war, retaining the territory provided to it by the United Nations and capturing some of the areas designated for the imagined future Palestinian state."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tanks_Destroyed_Sinai.jpg",
+          "caption": "Damaged Egyptian vehicles"
+        },
+        "start_date": {
+          "year": "1956",
+          "month":"10",
+          "day":"29"
+        },
+        "text": {
+          "headline": "Suez Crisis",
+          "text": "The Suez Crisis was an invasion of Egypt and the Gaza Strip in late 1956 by Israel, followed by the United Kingdom and France"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.jta.org/wp-content/uploads/2017/06/six-day-war.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "1967",
+          "month":"6",
+          "day":"5"
+        },
+        "text": {
+          "headline": "The Six-Day War",
+          "text": "Israel and several of its Arab neighbors fight the Six-Day War. Israel wins a decisive victory: it suffers seven hundred casualties; its adversaries suffer nearly twenty thousand. Israel emerges with control of the West Bank and the Gaza Strip—areas inhabited primarily by Palestinians—as well as all of East Jerusalem. Israel also takes control of Syria's Golan Heights and the Sinai Peninsula, which is part of Egypt. Israel will stay in the Sinai Peninsula until April 1982."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1967-nov.jpg.webp?itok=F0D2Pb0l",
+          "caption": "The UN Security Council meet in 1967."
+        },
+        "start_date": {
+          "year": "1967",
+          "month":"11",
+          "day":"22"
+        },
+        "text": {
+          "headline": "UN Security Council Resolution Calls for Israeli Withdrawal",
+          "text": "The UN Security Council passes Resolution 242 calling for Israeli withdrawal from territories occupied in the recent conflict and for the termination of states of belligerency and respect for and acknowledgement of the sovereignty, territorial integrity, and political independence of every state in the area and the right to live in peace within secure and recognized boundaries. The resolution establishes the concept of land for peace."
+        }
+      },
+      {
+        "media": {
+          "url": "https://israelnoticias.com/wp-content/uploads/2017/10/War-of-Yom-Kippur.jpg",
+          "caption": "Egyptian forces cross the Suez Canal in 1973."
+        },
+        "start_date": {
+          "year": "1973",
+          "month":"10",
+          "day":"3"
+        },
+        "text": {
+          "headline": "The Yom Kippur War",
+          "text": "Another Arab-Israeli war, known variously as the Yom Kippur War, the Ramadan War, and the October War, is fought when Egypt and Syria attempt to retake the Israeli-occupied Sinai Peninsula and Golan Heights. Cold War tensions spike as the Soviet Union aids Egypt and Syria and the United States aids Israel. The Organization of the Petroleum Exporting Countries begins an oil embargo on countries that support Israel, and the price of oil skyrockets. The fighting ends after a UN-sponsored cease-fire (negotiated by the United States and the Soviet Union) takes hold. The UN Security Council passes Resolution 338, which calls for implementing UN Security Council Resolution 242."
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn.britannica.com/47/213547-050-45400816/Anwar-Sadat-Jimmy-Carter-Menachem-Begin-Camp-David-Accords-1978.jpg",
+          "caption": "U.S. President Jimmy Carter shakes hands with Egyptian President Anwar Sadat at the signing of the Egyptian-Israeli Peace "
+        },
+        "start_date": {
+          "year": "1978",
+          "month":"9",
+          "day":"1"
+        },
+        "text": {
+          "headline": "The Camp David Accords",
+          "text": "Israel and Egypt sign the Camp David Accords, which establish a basis for a peace treaty between the two countries. The accords also commit the Israeli and Egyptian governments, along with other parties, to negotiate the disposition of the West Bank and the Gaza Strip."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/Israel%20Declares%20Independence_0.jpg.webp?itok=W3dWt00i",
+          "caption": "An Israeli tank is pictured in the Sinai."
+        },
+        "start_date": {
+          "year": "1979",
+          "month":"3",
+          "day":"26"
+        },
+        "text": {
+          "headline": "Israel Withdraws From the Sinai Peninsula",
+          "text": "Egypt and Israel sign a peace treaty, the first between Israel and one of its Arab neighbors. The treaty commits Israel to withdraw from the Sinai Peninsula and evacuate its settlements there. The termination of the state of war between Egypt and Israel leads to the normalization of diplomatic and commercial relations between the two countries. Israel's prime minister and Egypt's president exchange letters reaffirming their commitment—outlined in the Camp David Accords—to negotiate the disposition of the West Bank and the Gaza Strip."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1987.png.webp?itok=ufVm5J1-",
+          "caption": "An Israeli soldier takes aim as a Palestinian woman hurls a rock at him"
+        },
+        "start_date": {
+          "year": "1987",
+          "month":"12",
+          "day":"1"
+        },
+        "text": {
+          "headline": "First Intifada",
+          "text": "An Israeli driver kills four Palestinians in a car accident that sparks the first intifada, or uprising, against Israeli occupation in the West Bank and Gaza. The image of Palestinians throwing rocks at Israeli tanks becomes the enduring image of the intifada. Over the next six years, roughly 200 Israelis and 1,300 Palestinians are killed. <br>'The Establishment Of HAMAS'"
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1988.png.webp?itok=hbv8Gsfy",
+          "caption": "King Hussein of Jordan."
+        },
+        "start_date": {
+          "year": "1988",
+          "month":"7",
+          "day":"31"
+        },
+        "text": {
+          "headline": "Jordan Surrenders Claims on the West Bank and East Jerusalem",
+          "text": "King Hussein of Jordan relinquishes his country's claims to the West Bank and East Jerusalem in favor of the claims of the Palestine Liberation Organization (PLO). In December of the same year, PLO Chairman Yasir Arafat denounces violence, recognizes Israel's right to exist, and acknowledges UN Security Council Resolution 242 and the concept of land for peace. The United States responds to Arafat's announcement by beginning direct talks with him, though it suspends the talks following a Palestinian terrorist attack against Israel."
+        }
+      },
+      {
+        "media": {
+          "url": "https://solusianakmuda.com/wp-content/uploads/2021/11/Screenshot-2021-11-29-095138.jpg",
+          "caption": "The Conference"
+        },
+        "start_date": {
+          "year": "1991",
+          "month":"10",
+          "day":"30"
+        },
+        "text": {
+          "headline": "The Madrid Peace Conference",
+          "text": "The Madrid Peace Conference begins, sponsored jointly by the United States and the Soviet Union. Israeli, Jordanian, Lebanese, Palestinian, and Syrian delegates attend the first negotiations among those parties. The talks proceed along bilateral tracks between Israel and its neighbors, though the Lebanese join the Syrian delegation and the Jordanian team includes Palestinian representatives. A multilateral track includes the wider Arab world and addresses regional issues. The talks last for two years without any breakthroughs."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1993.jpg.webp?itok=v5XXq4BR",
+          "caption": "Israeli Prime Minister Yitzhak Rabin, and PLO Chairman Yasser Arafat historic handshake"
+        },
+        "start_date": {
+          "year": "1993",
+          "month":"9",
+          "day":"13"
+        },
+        "text": {
+          "headline": "The Oslo Accord",
+          "text": "Secret negotiations in Norway result in the Declaration of Principles on Interim Self-Government Arrangements, also known as the Oslo Accords. Before the accords are signed, Israel and the PLO recognize each other in an exchange of letters. Israel and the PLO agree to the creation of the Palestinian Authority to temporarily administer the Gaza Strip and West Bank. Israel also agrees to begin withdrawing from parts of the West Bank, though large swaths of land and Israeli settlements remain under the Israeli military's exclusive control. The Oslo Accords envision a peace agreement by 1999. Palestinian leader Arafat, Israeli Prime Minister Yitzhak Rabin, and Israeli Foreign Minister Shimon Peres win the Nobel Peace Prize in 1994 for their efforts on the Oslo Accords."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1994-oct.jpg.webp?itok=CMrQY6tK",
+          "caption": "The Israel-Jordan Peace Treaty"
+        },
+        "start_date": {
+          "year": "1994",
+          "month":"10",
+          "day":"26"
+        },
+        "text": {
+          "headline": "Israel and Jordan Sign a Peace Treaty",
+          "text": "Israel and Jordan sign a peace treaty, settling their territorial dispute and agreeing to future cooperation in sectors such as trade and tourism. This is Israel's second peace treaty with an Arab state. It accords special administrative responsibilities for Jerusalem's Muslim holy places to Jordan."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-1993.jpg.webp?itok=v5XXq4BR",
+          "caption": "Israeli Prime Minister Yitzhak Rabin, and PLO Chairman Yasser Arafa win the Nobel Peace Prize in 1994."
+        },
+        "start_date": {
+          "year": "1995",
+          "month":"9",
+          "day":"28"
+        },
+        "text": {
+          "headline": "Oslo II Accord",
+          "text": "Israeli and Palestinian negotiators sign the Interim Agreement, sometimes called Oslo II. It gives the Palestinians control over additional areas of the West Bank and defines the security, electoral, public administration, and economic arrangements that will govern those areas until a final peace agreement is reached in 1999."
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.newarab.com/sites/default/files/1164472.jpeg",
+          "caption": "The second intifada"
+        },
+        "start_date": {
+          "year": "2000",
+          "month":"9",
+          "day":"28"
+        },
+        "text": {
+          "headline": "The Second Intifada",
+          "text": "Israeli politicians, including Ariel Sharon, a controversial retired Israeli general, visit the Temple Mount/Haram al-Sharif. The Palestinians view the visit as an effort to change the status quo at the holy site. The ensuing demonstrations turn violent, marking the beginning of a second intifada. It will last until 2005 and be markedly more violent than the first intifada. Four thousand Palestinians and one thousand Israelis die."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/The%20Passover%20Massacre_0.jpg.webp?itok=LPO_XhFz",
+          "caption": "Israeli rescue workers search the scene of a suicide bombing "
+        },
+        "start_date": {
+          "year": "2002",
+          "month":"3",
+          "day":"27"
+        },
+        "text": {
+          "headline": "The Passover Massacre",
+          "text": "A terrorist attack kills thirty people at a Passover celebration at a hotel in the Israeli city of Netanya. As a result, the Israeli military reoccupies portions of the West Bank, including the city of Ramallah, where the Palestinian Authority is located and where Arafat has his West Bank headquarters."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/Israeli%20West%20Bank%20Barrier%20Building%20Begins.jpg.webp?itok=jTiHUSMG",
+          "caption": "An Israeli soldier guards the new fence built by Israel"
+        },
+        "start_date": {
+          "year": "2002",
+          "month":"6",
+          "day":"23"
+        },
+        "text": {
+          "headline": "Israeli West Bank Barrier-Building Begins",
+          "text": "Israel begins building a security barrier in the West Bank to protect Israeli cities and towns from terrorist attacks. The barrier, which is a wall in some stretches and a fence in others, is controversial because in places it cuts deep into West Bank territory to protect settlements. The Palestinians are cut off from Jerusalem, some Palestinian villages are sliced in half, and some Palestinians are unable to get to work or school as a result of the security barrier's path. Israel's Supreme Court forces changes in the barrier's route, but the barrier continues to impede Palestinian movement and commerce in certain areas."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2003.jpg.webp?itok=bdVEJb0n",
+          "caption": "U.S. Secretary of State Colin Powell gives a joint news conference about issues in the Middle East in Jordan in 2003."
+        },
+        "start_date": {
+          "year": "2003",
+          "month":"4",
+          "day":"30"
+        },
+        "text": {
+          "headline": "Road Map for Peace",
+          "text": "The Quartet, an informal group created to pursue Middle East peace comprising the United States, Russia, the United Nations, and the European Union, puts forth a Road Map for Peace based on the outline President George W. Bush offered in his 2002 speech. The road map lays out a plan for peace based on Palestinian reforms and a cessation of terrorism in return for an end to Israeli settlements and a new Palestinian state."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2006-jan.jpg.webp?itok=86WkRy5N",
+          "caption": "A Palestinian boy marches with a Hamas flag after the Palestinian election in the Gaza Strip on January 26, 2006."
+        },
+        "start_date": {
+          "year": "2006",
+          "month":"1",
+          "day":"29"
+        },
+        "text": {
+          "headline": "Hamas Expands Power in Gaza",
+          "text": "Hamas defeats Fatah, a Palestinian political faction founded in 1950s which was a long-dominant faction within the PLO, in Palestinian elections. The United States and other countries suspend their aid to the Palestinian Authority  because they consider Hamas to be a terrorist organization. Fatah and Hamas make a deal to govern the West Bank and Gaza Strip together. The deal quickly fails, and Hamas takes over the Gaza Strip in 2007."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2006-jun.jpg.webp?itok=VpAaTz2f",
+          "caption": "In 2008, people in Jerusalem attend a rally marking two years since Israeli soldier Gilad Shalit was captured by Palestinian militants."
+        },
+        "start_date": {
+          "year": "2006",
+          "month":"6",
+          "day":"25"
+        },
+        "text": {
+          "headline": "Gilad Shalit Taken Hostage",
+          "text": "Hamas operatives kidnap an Israeli soldier named Gilad Shalit on Israeli soil near the Gaza Strip. The Israeli military tries and fails to free him. He is held captive in Gaza until Israel—with the help of Egypt and the United States—negotiates his release in 2012."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/Israel%20Attacks%20the%20Gaza%20Strip.jpg.webp?itok=wZCLs8Mt",
+          "caption": "A Palestinian protests the Israeli offensive in Gaza by throwing stones at Israeli border police officers"
+        },
+        "start_date": {
+          "year": "2008",
+          "month":"12",
+          "day":"27"
+        },
+        "text": {
+          "headline": "Israel Attacks the Gaza Strip",
+          "text": "Israel attacks the Gaza Strip following nearly eight hundred rocket attacks from Gaza on Israeli towns in the months of November and December. The war lasts less than a month but kills hundreds of civilians, in addition to hundreds of combatants, and sparks international criticism."
+        }
+      },
+      {
+        "media": {
+          "url": "https://static01.nyt.com/images/2014/07/09/world/JP-ISRAEL-1/JP-ISRAEL-1-superJumbo.jpg?quality=90&auto=webp",
+          "caption": "On August 2, 2014, Israeli soldiers attacked the Gaza Strip as part of an offensive against Palestinian militants."
+        },
+        "start_date": {
+          "year": "2014",
+          "month":"7",
+          "day":"8"
+        },
+        "text": {
+          "headline": "Operation Protective Edge",
+          "text": "After tit-for-tat attacks on Israeli and Palestinian civilians by extremists on both sides, Israel invades the Gaza Strip. The operation, code-named Protective Edge, lasts for fifty days, killing about two thousand Gazans, sixty-six Israeli soldiers, and five Israeli civilians. Unlike the conflicts from 2008 to 2009 and in 2012, Palestinian rocket fire targets major Israeli cities. The war ends after the United States, in consultation with Egypt, Israel, and other regional powers, brokers a cease-fire."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2017-dec.jpg.webp?itok=Uv3ht--Z",
+          "caption": "On December 29, 2017, people in Amman, Jordan protest U.S. President Donald Trump's recognition of Jerusalem as Israel's capital."
+        },
+        "start_date": {
+          "year": "2017",
+          "month":"12",
+          "day":"6"
+        },
+        "text": {
+          "headline": "The U.S. Formally Recognizes Jerusalem as the Capital of Israel",
+          "text": "Changing long-standing U.S. policy, U.S. President Donald Trump formally recognizes Jerusalem as the capital of Israel. He also pledges to move the U.S. embassy from Tel Aviv to that city, though the move is not set to occur immediately. Numerous foreign leaders, including those of Egypt, France, Saudi Arabia, Turkey, and the United Kingdom, along with UN Secretary-General António Guterres, criticize the policy change. It also sparks protests and violence throughout East Jerusalem, Gaza, and the West Bank, as well as in Egypt, Iran, Iraq, and Jordan. In January 2018, Palestinian President Mahmoud Abbas declines to meet with U.S. Vice President Mike Pence during Pence's trip to the region."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2018.jpg.webp?itok=NAkDMD-s",
+          "caption": "President Trump holds a proclamation recognizing Israel's sovereignty over the Golan Heights"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"3",
+          "day":"25"
+        },
+        "text": {
+          "headline": "The U.S. Recognizes Israeli Sovereignty Over the Golan Heights",
+          "text": "The Trump administration recognizes Israeli sovereignty over the Golan Heights, which Israel had formally annexed from Syria in 1981. The United States is the first country other than Israel to recognize Israel's sovereignty over the territory."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/ipt-2020-whitehouse.jpg.webp?itok=rcaEHx_1",
+          "caption": "Netanyahu and United Arab Emirates Foreign Minister Abdullah bin Zayed display their copies of signed agreements"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"9",
+          "day":"15"
+        },
+        "text": {
+          "headline": "Relations between Some Arab Countries and Israel Normalize",
+          "text": "Bahrain and the United Arab Emirates agree to normalize diplomatic relations with Israel, becoming the first Arab countries to do so in over twenty-five years. In return, Israel announces the suspension of its plans to annex territory in the West Bank. Morocco and Sudan subsequently also sign on to the agreement and normalize relations with Israel."
+        }
+      },
+      {
+        "media": {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/05/F210512WH210.jpg",
+          "caption": "Israel militiry forces attacking Palestinian protestors"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"5",
+          "day":"10"
+        },
+        "text": {
+          "headline": "2021 Israel-Hamas Crisis",
+          "text": "Evictions of Palestinians in East Jerusalem and clashes at al-Aqsa Mosque spark conflict between Israel and Hamas. Over two hundred people in Gaza and at least ten in Israel die. The Joe Biden administration helps mediate a truce and restores some U.S. aid and diplomatic contact with the Palestinians."
+        }
+      },
+      {
+        "media": {
+          "url": "https://world101.cfr.org/sites/default/files/styles/max_325x325/public/images/timeline-image/2023/10/Deadly%20Year%20in%20Israeli-Palestinian%20Conflict.jpg.webp?itok=zlE4BNaW",
+          "caption": "A Palestinian man checks a house that was damaged during Israel-Gaza fighting in Gaza City on August 8, 2022."
+        },
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Deadly Year in Israeli-Palestinian Conflict",
+          "text": "Israel launches a counterterrorism operation in the West Bank in response to attacks by Palestinians against Jewish Israelis. The operation and resulting resurgence contribute to the deadliest year for both sides since 2005, an uptick in violence that only turned out to rise in 2023"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Damage_in_Gaza_Strip_during_the_October_2023_-_13.jpg",
+          "caption": "Residents inspect the ruins of an apartment in Gaza destroyed by Israeli airstrikes"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"10",
+          "day":"7"
+        },
+        "text": {
+          "headline": "Hamas Launches Surprise Attack on Israel",
+          "text": "On October 7, 2023, Hamas launched an unprecedented surprise attack on Israel, leading to an explosion of violence, that is still ongoing for more then 61 days"
+        }
+      }
+    ]
+}
