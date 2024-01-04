@@ -28,12 +28,12 @@ st.write('\n')
 # image = Image.open(image_path)
 
 # Ajouter du texte à l'image en créant une nouvelle image
-# image_with_text = image.copy()
-# draw = ImageDraw.Draw(image_with_text)
-# font_path = "arial.ttf"  
-# font_size = 30
-# font = ImageFont.truetype(font_path, font_size)
-# text = ' '#Palestine-Israel Conflict'
+image_with_text = image.copy()
+draw = ImageDraw.Draw(image_with_text)
+font_path = "arial.ttf"  
+font_size = 30
+font = ImageFont.truetype(font_path, font_size)
+text = ' '#Palestine-Israel Conflict'
 
 # draw.text((50,210), text, font=font, fill='#000')
 
