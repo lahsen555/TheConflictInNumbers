@@ -1,1 +1,2 @@
+pkg-config
 default-libmysqlclient-dev
