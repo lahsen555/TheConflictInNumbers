@@ -9,13 +9,6 @@ import altair as alt
 import pandas as pd
 #######################
 # Page configuration
-st.set_page_config(
-    page_title="Palestine vs Israel Dashboard",
-    page_icon="⚔️",
-    layout="wide",
-    initial_sidebar_state="expanded"
-    )
-
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
@@ -23,6 +16,15 @@ hide_streamlit_style = """
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
+st.set_page_config(
+    page_title="Palestine vs Israel Dashboard",
+    page_icon="⚔️",
+    layout="wide",
+    initial_sidebar_state="expanded"
+    )
+
+
 st.image('imgs/img.jpg', caption='', use_column_width=True)
 #alt.themes.enable("dark")
 
